@@ -1,0 +1,26 @@
+# Raw sequencing data — too large for git
+Healthy/
+Cancer/
+
+# Processed outputs
+data/processed/
+data/raw/
+models/
+results/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
